@@ -14,7 +14,7 @@ Skills:  HTML / CSS / BOOTSTRAP /  TAILDWIND /  GIT / FIGMA
 - 📫 How to reach me: Search 'Anik Islam Roni' in Facebook 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roni006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61554444497099&sk=photos_by)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/AnikIslam/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roni006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roni006)](https://github.com/anuraghazra/github-readme-stats)
 
