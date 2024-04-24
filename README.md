@@ -1,7 +1,8 @@
-![Junior Front End Web Designer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/415687806_122112938204148149_8537998858979820989_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEs6xtCeKTCJRj6zJxFVe4sbhSmYRq4xfFuFKZhGrjF8eJFWjoRRX_LZvfN-bDiR0keHLQbObosMH8I70xQ81uW&_nc_ohc=engq-Ai2IAIAb4xlB64&_nc_ht=scontent.fdac80-1.fna&oh=00_AfDeMxgzPhI8jmGdB-jm7yJ1cOU92ZzI96til6N1wLhSTg&oe=662F1F58)
+![Junior Front End Web Designer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/434262211_122132183702148149_1769671312457048509_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH-qWHNE5F2XirVPDr0nZsaccEaox78fs9xwRqjHvx-zzo2JpSZh5hFzwAh0bVDfzTI_fQgovT0YbLZ1ghUc67S&_nc_ohc=M-W_nbmlhO8Ab77T6i4&_nc_ht=scontent.fdac80-1.fna&oh=00_AfDeOPHSV6jCk0_Za-5p0yaVBUW9TChDw7kilPFOj6SIEA&oe=662F2723)
 
 ### Hi there 👋, Anik Islam
 #### Junior Front End Web Designer
+
 
 Hey, how are you? I am Anik a junior front-end web designer. I have been doing this work for quite some time. I am a passionate web designer with a keen eye for detail and a flair for creativity. My journey in the world of web design began with a deep fascination for blending aesthetics with functionality. Over the years, I have honed my skills in HTML, CSS, and JavaScript, allowing me to create visually appealing and user-friendly websites.
 
