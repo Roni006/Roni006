@@ -6,7 +6,7 @@
 
 Hey, how are you? I am Anik a junior front-end web designer. I have been doing this work for quite some time. I am a passionate web designer with a keen eye for detail and a flair for creativity. My journey in the world of web design began with a deep fascination for blending aesthetics with functionality. Over the years, I have honed my skills in HTML, CSS, and JavaScript, allowing me to create visually appealing and user-friendly websites.
 
-Skills:  HTML / CSS / BOOTSTRAP /  TAILDWIND /  GIT / FIGMA
+Skills:  HTML / CSS / BOOTSTRAP /  TAILDWIND /  GIT / FIGMA / PSD / JAVASCRIPT 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PHP 
