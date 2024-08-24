@@ -1,21 +1,22 @@
-### Hi there 👋, Anik Islam
-#### Junior Front End Web Developer
-![Junior Front End Web Developer]([https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/442438630_122142269408148149_2186513160075919477_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGvU7l050zgmI3mN7PDdRsstmA93_TlzM-2YD3f9OXMz60KKPtdOOQaSBDkRDUR3pJuyi0VsUB-gpPw7oB_KTOG&_nc_ohc=UZvXd2vsxL8Q7kNvgFGyWaT&_nc_ht=scontent.fdac80-1.fna&oh=00_AYCOn2lFP9OBw7r8TEQYl5NRbUNas-Aq7U412kOcdTCm6g&oe=66498EF6](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/442438630_122142269408148149_2186513160075919477_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qeSELGkEtioQ7kNvgHZjlyz&_nc_ht=scontent.fdac80-1.fna&oh=00_AYDSqJvplwJWyuSC9lSJaQTK8a5CKGwWwXJQQItfG0c8WQ&oe=66629B76))
+### Hi there 👋,  I'm Anik Islam
+####  Front-End Web Developer
+![ Front-End Web Developer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/450658956_122152336820148149_2917602719477853333_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHzAEsJbMrUSdbKzhsm8BGYLEhrpL_kM-4sSGukv-Qz7m_L4fjzJSpS0qJnKY9-RESas-_nV4YyjJBf_8FzzFjj&_nc_ohc=nV0o2Nrle9oQ7kNvgEwgkWw&_nc_ht=scontent.fdac80-1.fna&oh=00_AYBzZuJqO4rBfKi_eHkBClkAMP30y4OIScwHkYa6Y4L0cA&oe=66CFF432)
 
 Hey, how are you? I am Anik a junior front-end web designer. I have been doing this work for quite some time. I am a passionate web designer with a keen eye for detail and a flair for creativity. My journey in the world of web design began with a deep fascination for blending aesthetics with functionality. Over the years, I have honed my skills in HTML, CSS, BOOTSRAP, SASS, PHP, JAVASCRIPT, and JQUERY allowing me to create visually appealing and user-friendly websites.
 
-Skills:  HTML / CSS / BOOTSTRAP / SASS / JAVASCRIPT / JQUERY /PHP
+Skills: HTML / CSS / BOOTSTRAP / SASS / JAVASCRIPT / JQUERY /PHP
 
-- 🔭 I’m currently working on WEB DEVELOPMENT 
-- 🌱 I’m currently learning PHP 
-- 💬 Ask me about WEB DEVELOPMENT! 
+- 🔭 I’m currently working on WordPress 
+- 🌱 I’m currently learning React 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Contact with me in Facebook. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roni006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Anik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/AnikIslam/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Roni006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anik-islam-roni-293414306//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61554444497099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/anik_islam06)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roni006)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Roni006)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roni006&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Roni006&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Roni006)  
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Roni006)  
 
