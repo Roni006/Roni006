@@ -4,7 +4,7 @@
 
 Hey, how are you? I am Anik, a junior front-end web designer. I have been doing this work for quite some time. I am a passionate web designer with a keen eye for detail and a flair for creativity. My journey in the world of web design began with a deep fascination for blending aesthetics with functionality. Over the years, I have honed my skills in HTML, CSS, BOOTSRAP, SASS, PHP, JAVASCRIPT, and JQUERY allowing me to create visually appealing and user-friendly websites.
 
-Skills: HTML / CSS / BOOTSTRAP / SASS / TAILWINS / JAVASCRIPT / PHP / WORDPRESS / REACT.JS / NEXT.JS / FIREBASE /
+Skills: HTML / CSS / BOOTSTRAP / SASS / TAILWIND / JAVASCRIPT / PHP / WORDPRESS / REACT.JS / NEXT.JS / FIREBASE /
 
 - 🔭 I’m currently working on WordPress 
 - 🌱 I’m currently learning React 
